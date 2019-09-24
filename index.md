@@ -1,3 +1,1 @@
-﻿```markdown
-[Twine Curriculum](twinecurriculum.html)
-```
+﻿[Twine Curriculum](/twinecurriculum.html)
